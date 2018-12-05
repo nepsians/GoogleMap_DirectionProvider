@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="BG_color">#FFFAFA</color>
+    <color name="Button_color1">#40E0D0</color>
+    <color name="Button_color2">#7FFFD4</color>
+    <color name="google_btn">#40E0D0</color>
+</resources>

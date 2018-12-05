@@ -1,0 +1,9 @@
+<resources>
+    <string name="Google_Map_API_key">AIzaSyD_91iug5AZ9uzFqERN1uhSzLlj4i2MC9k</string>
+    <string name="app_name">Ambulance App</string>
+
+    <string name="Token">myfcmdata</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Home"
+    android:title="Home"
+        android:icon="@mipmap/ic_launcher_round"></item>
+    <item android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@mipmap/baseline_settings_black_24"></item>
+    <item android:id="@+id/account"
+        android:title="My Account"
+        android:icon="@mipmap/baseline_person_black_24"></item>
+    <item android:id="@+id/logout"
+        android:title="Log out"
+        android:icon="@mipmap/baseline_mood_bad_black_24"></item>
+    <item android:id="@+id/more"
+        android:title="More"
+        android:icon="@mipmap/ic_launcher"></item>
+</menu>
